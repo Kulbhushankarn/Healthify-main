@@ -28,6 +28,7 @@ def home():
         '<p style="font-size:22px; text-align: center; color: black;font-size: 25px;">Improving Healthcare, Improving Lives, Bridging the gap between technology and health</p>',
         unsafe_allow_html=True,
     )
+    st.subheader('Create by Kulbhushan Karn')
     st.markdown("---")
 
     st.markdown(
