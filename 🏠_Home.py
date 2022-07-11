@@ -80,10 +80,6 @@ def home():
     st.markdown(
         f" MADE WITH ❤️ BY KULBHUSHAN"
     )
-    st.markdown(
-        f"<iframe src="https://webchat.botframework.com/embed/krishi-bot-bot?s=8Y6v07zSlLk.mQx1qtbNQf-mppeRyeopap53-Bn96DLRmgY_Eo0awb0" 
-    style="height: 502px; max-height: 600px;"></iframe>"
-    )
 
 
 if __name__ == "__main__":
